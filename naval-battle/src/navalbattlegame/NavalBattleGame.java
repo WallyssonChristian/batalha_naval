@@ -24,6 +24,8 @@ public class NavalBattleGame {
 		// METODO setShipLocation()
 		// Capture o local da célula como parametro, utilizando uma matriz
 		// atribuir os locais na matriz de local
+		
+		// Teste
 	}
 
 }
