@@ -1,7 +1,10 @@
 package navalbattlegame;
 
-public class NavalBattleGame {
+import java.util.Scanner;
 
+public class NavalBattleGame {
+	
+	Scanner read = new Scanner(System.in);
 	public static void main(String[] args) {
 		
 		// Declarar Matriz int para armazenar os locais dos navio
