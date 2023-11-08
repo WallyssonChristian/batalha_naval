@@ -7,6 +7,7 @@ public class NavalBattleGame {
 	Scanner read = new Scanner(System.in);
 	public static void main(String[] args) {
 		
+		// github eu te odeio
 		// Declarar Matriz int para armazenar os locais dos navio
 		// Declarar uma variavel int para o Score
 		// Declarar um metodo checkYourself() que use uma String para o palpite do usuário
